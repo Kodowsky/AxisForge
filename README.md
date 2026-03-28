@@ -10,11 +10,11 @@
 
 ### Avoid choppy markets
 
-![ChopRadar Chop](chop.png)
+![ChopRadar Chop](chop.png.png)
 
 ### Trade when the market is trending
 
-![ChopRadar Trend](trend.png)
+![ChopRadar Trend](trend.png.png)
 
 
 Most traders don’t lose because of bad entries.
