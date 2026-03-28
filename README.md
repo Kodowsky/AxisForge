@@ -1,30 +1,63 @@
 # AxisForge
-Building practical tools focused on context, clarity, and real-world use
 
-# AxisForge
+**Practical tools for traders who value clarity over noise**
 
-AxisForge is a brand focused on building practical tools for real-world use 
-
-The focus is on building tools that are simple, practical, and make sense in real use
+---
 
 ## ChopRadar
 
-ChopRadar is the first AxisForge tool
+Most traders don’t lose because of bad entries.
 
-It is a market context tool designed to help detect whether the market is:
+They lose because they trade in bad market conditions.
 
-- **TRENDING**
-- **SIDEWAYS**
-- **UNCLEAR**
+**ChopRadar helps you fix that.**
 
-It is built to quickly understand the current market environment, not to predict the future
+It answers one simple question:
 
-## Links
+👉 *Is the market worth trading right now?*
 
-- MQL5 Marketplace: [add link]
-- Discord: [add link]
+---
+
+## What it does
+
+ChopRadar shows the current market condition:
+
+* **TRENDING** → conditions are favorable
+* **SIDEWAYS** → market is choppy, avoid trading
+* **UNCLEAR** → no clear structure, wait
+
+No signals.
+No noise.
+Just context.
+
+---
+
+## Why it matters
+
+Most indicators try to tell you **when to trade**.
+
+ChopRadar tells you:
+
+👉 *if trading even makes sense*
+
+---
+
+## Get ChopRadar
+
+👉 **Download for free on MQL5**
+https://www.mql5.com/en/market/product/170291?source=Site+Profile+Seller
+
+---
+
+## Community
+
+👉 **Join Discord (updates, feedback, future tools)**
+https://discord.gg/VjTzZGT46t
+
+---
 
 ## Status
 
-- First product: ChopRadar  
-- More tools and updates will be added over time
+* First release: ChopRadar v1.0
+* Focus: stability, clarity, real-world use
+* More tools coming under AxisForge
