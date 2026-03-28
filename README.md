@@ -6,6 +6,17 @@
 
 ## ChopRadar
 
+## How it works
+
+### Avoid choppy markets
+
+![ChopRadar Chop](chop.png)
+
+### Trade when the market is trending
+
+![ChopRadar Trend](trend.png)
+
+
 Most traders don’t lose because of bad entries.
 
 They lose because they trade in bad market conditions.
